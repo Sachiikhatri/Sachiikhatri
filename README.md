@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=700&lines=SACHI+KHATRI" alt="Sachi Khatri Glitch Header" />
+  <img src="https://raw.githubusercontent.com/sachikh/sachikh/main/A_digital_graphic_banner_features_the_name_Sachi_.png" alt="Sachi Khatri Banner" width="100%" />
 </p>
-
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=AI+Specialist+in+the+Making+%F0%9F%94%96;Crafting+Intelligent+Solutions+with+Code+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Let%27s+Innovate+Together+%F0%9F%8C%9F" alt="Typing SVG" />
@@ -14,6 +13,7 @@
   <img src="https://img.shields.io/badge/Open%20to%20Internships-Yes-green?style=flat-square" />
 </p>
 
+---
 
 ### 🧠 About Me
 
@@ -22,7 +22,7 @@
 🎓 Master of Applied Computing (AI Specialization) — **University of Windsor**  
 🧠 Passionate about AI, Machine Learning, NLP & real-world applications  
 🔍 Researcher | Evaluator | Engineer  
-🌱 Currently seeking **Fall 2025 internship opportunities**
+🌱 Currently seeking **Fall 2024 internship opportunities**
 
 ---
 
