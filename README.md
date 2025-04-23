@@ -77,13 +77,48 @@
 <!-- TECH TOOLBOX SECTION -->
 <h3 align="center">🛠️ Tech Toolbox</h3>
 
-<div align="center">
-  <pre>Languages:        Python, Java, C
-ML Stack:         Scikit-Learn, Pandas, PyTorch, Numpy, Matplotlib, NLP
-Databases:        PostgreSQL, MySQL, MongoDB, Cassandra, Neo4j
-Web/Data Tools:   Selenium, BeautifulSoup, OpenCV
-OS/Platforms:     Linux, UNIX, Windows</pre>
-</div>
+<p align="center">
+
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+
+  <!-- ML / Data Science -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" />
+
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQL" />
+
+  <!-- Web/Data Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="Selenium" />
+
+  <!-- OS/Platforms -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Unix_tux.svg" height="40" alt="UNIX" />
+
+  <!-- Visualization & Reporting -->
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40" alt="Excel" />
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="Power BI" />
+  <img src="https://img.icons8.com/color/48/tableau-software.png" height="40" alt="Tableau" />
+
+</p>
+
+<p align="center">
+  <code>Languages:</code>        Python, Java, C<br/>
+  <code>ML Stack:</code>         Scikit-Learn, Pandas, PyTorch, Numpy, Matplotlib<br/>
+  <code>Databases:</code>        SQL, MySQL, MongoDB<br/>
+  <code>Web/Data Tools:</code>   Selenium<br/>
+  <code>OS/Platforms:</code>     Linux, UNIX, Windows<br/>
+  <code>Visualization:</code>    Excel, Power BI, Tableau
+</p>
+
 
 <!-- BOTTOM TECH BADGES -->
 <div align="center">
