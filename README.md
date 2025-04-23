@@ -55,25 +55,6 @@
 
 <hr>
 
-<!-- PROJECTS SECTION -->
-<h3 align="center">🧪 Highlight Projects</h3>
-
-<ul>
-  <li>
-    <strong>📊 Customer Churn Prediction</strong><br>
-    → ML pipeline (Scikit-Learn) with 86% accuracy<br>
-    → Visual dashboard for real-time retention insights
-  </li>
-  <br>
-  <li>
-    <strong>🦁 AI-Driven Wildlife Monitoring</strong><br>
-    → Real-time animal detection & classification with <strong>PyTorch + OpenCV</strong><br>
-    → Designed for resource-constrained environments
-  </li>
-</ul>
-
-<hr>
-
 <!-- TECH TOOLBOX SECTION -->
 <h3 align="center">🛠️ Tech Toolbox</h3>
 
@@ -93,7 +74,6 @@
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQL" />
 
   <!-- Web/Data Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="Selenium" />
@@ -101,7 +81,6 @@
   <!-- OS/Platforms -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Unix_tux.svg" height="40" alt="UNIX" />
 
   <!-- Visualization & Reporting -->
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40" alt="Excel" />
@@ -118,21 +97,27 @@
   <code>OS/Platforms:</code>     Linux, UNIX, Windows<br/>
   <code>Visualization:</code>    Excel, Power BI, Tableau
 </p>
+<!-- PROJECTS SECTION -->
+<h3 align="center">🧪 Highlight Projects</h3>
+
+<ul>
+  <li>
+    <strong>📊 Customer Churn Prediction</strong><br>
+    → ML pipeline (Scikit-Learn) with 86% accuracy<br>
+    → Visual dashboard for real-time retention insights
+  </li>
+  <br>
+  <li>
+    <strong>🦁 AI-Driven Wildlife Monitoring</strong><br>
+    → Real-time animal detection & classification with <strong>PyTorch + OpenCV</strong><br>
+    → Designed for resource-constrained environments
+  </li>
+</ul>
+
+<hr>
 
 
-<!-- BOTTOM TECH BADGES -->
-<div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  </p>
-</div>
+
 
 <!-- SIMPLE FOOTER -->
 <div align="center">
